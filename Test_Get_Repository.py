@@ -7,7 +7,7 @@ class Test_Get_Repository(unittest.TestCase):
         # Correct input
         expected_result = ['User : PreethikaL' ,
                           'HW-01-Testing-triangle-classification Number of commits: 1' ,
-                          'HW04 Number of commits: 6' ,
+                          'HW04 Number of commits: 8' ,
                           'HWK04a Number of commits: 1' ,
                           'plakshmi Number of commits: 3' ,
                           'Triangle_Test Number of commits: 7']
